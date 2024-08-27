@@ -1,4 +1,4 @@
-# Student Management
+# Movie Management
 
 ## Visual interface
 ![alt text](image.png)
@@ -9,7 +9,7 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/nguyendien9203/PE_BLOCK5_SU24.git
+   git clone https://github.com/nguyendien9203/PE_SU24.git
    ```
 
 2. **Install Dependencies**
